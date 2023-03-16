@@ -7,7 +7,26 @@
 
 ## Pyspark Installation
 
-Version:
+Note: make sure python and java are already install
+to check java version:
+```
+java -version
+```
+<img width="587" alt="Screenshot 2023-03-16 at 15 12 16" src="https://user-images.githubusercontent.com/113230789/225554778-9d954752-fbe5-43a2-bc19-6a68f60debf2.png">
+
+to check python version:
+```
+python --version
+```
+<img width="587" alt="Screenshot 2023-03-16 at 15 12 16" src="https://user-images.githubusercontent.com/113230789/225555164-b671593b-bf5d-4cf3-94a9-dd7ad063835c.png">
+
+If you haven't installed it, you can refer to this video:
+[How to Install Java](https://youtu.be/RfIiBMJqvp8)
+[How to Install Python](https://youtu.be/3-sPfR4JEQ8)
+
+### Steps
+1. Download Apache Spark: [here](https://spark.apache.org/downloads.html)
+2. 
 
 <img width="588" alt="Screenshot 2023-03-16 at 15 04 14" src="https://user-images.githubusercontent.com/113230789/225552980-7bc374c0-0549-4ccc-9db1-8d2acc2dd6b3.png">
 
