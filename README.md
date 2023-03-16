@@ -7,8 +7,7 @@
 
 ## Pyspark Installation
 
-Note: make sure python and java are already install
-to check java version:
+**Note: make sure python and java are already install**
 ```
 java -version
 ```
@@ -28,6 +27,7 @@ If you haven't installed it, you can refer to this video:
 1. Download Apache Spark: [here](https://spark.apache.org/downloads.html)
 2. 
 
+Version:\
 <img width="588" alt="Screenshot 2023-03-16 at 15 04 14" src="https://user-images.githubusercontent.com/113230789/225552980-7bc374c0-0549-4ccc-9db1-8d2acc2dd6b3.png">
 
 Spark context Web UI:
